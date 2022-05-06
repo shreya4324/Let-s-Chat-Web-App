@@ -1,0 +1,22 @@
+#myButton{
+   background-color: purple;
+   font-family: 'Times New Roman';
+   color: seashell;
+}
+#span_1{
+    float: left;
+}
+#div{
+   float: right;
+   text-align: center;
+}
+#image{
+    height: 500;
+    width: 1000; 
+    border-color: teal;
+    border-width: 4px;
+}
+#h1{
+    font-family: 'Times New Roman';
+    color: darkmagenta;
+}
